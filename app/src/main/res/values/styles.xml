@@ -1,22 +1,22 @@
 <resources>
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryDark">@color/primaryDark</item>
-        <item name="colorAccent">@color/accent</item>
-        <item name="android:windowBackground">@color/windowBackground</item>
+    <style name="ViSerAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/viSerPrimary</item>
+        <item name="colorPrimaryDark">@color/viSerPrimaryDark</item>
+        <item name="colorAccent">@color/viSerAccent</item>
+        <item name="android:windowBackground">@color/viSerWindowBackground</item>
     </style>
 
-    <style name="AppTheme.NoActionBar">
+    <style name="ViSerAppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="ViSerAppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="ViSerAppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="AppTheme.footText" parent="Base.Widget.AppCompat.TextView">
+    <style name="ViSerAppTheme.footText" parent="Base.Widget.AppCompat.TextView">
         <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
     </style>
 </resources>

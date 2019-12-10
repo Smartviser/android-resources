@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#27AAE1</color>
-    <color name="primaryDark">#194BA0</color>
-    <color name="accent">#194BA0</color>
-    <color name="windowBackground">#EEEEEE</color>
+    <color name="viSerPrimary">#27AAE1</color>
+    <color name="viSerPrimaryDark">#194BA0</color>
+    <color name="viSerAccent">#194BA0</color>
+    <color name="viSerWindowBackground">#EEEEEE</color>
 
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
